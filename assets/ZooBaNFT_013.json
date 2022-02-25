@@ -1,0 +1,21 @@
+{
+    "tokenId": 13,
+    "name":	"Shelly #013",
+    "description":	"Hiding in the metaverse",
+    "image":	"TODO",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Female"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Shielded Markswoman"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Turtle"
+        }
+    ]
+}
